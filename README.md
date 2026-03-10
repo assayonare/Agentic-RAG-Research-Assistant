@@ -1,3 +1,3 @@
 # Agentic-RAG-Research-Assistant
 ## Architecture Agentic RAG Research Assistant
-![Alt Text](images/mermaid-diagram.svg "Architecture")
+<img src="images/mermaid-diagram.svg" alt="Architecture">
