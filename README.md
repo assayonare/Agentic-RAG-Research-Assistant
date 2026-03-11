@@ -1,4 +1,26 @@
 # Agentic-RAG-Research-Assistant
+**Автономный исследовательский AI-агент для научных статей**
+
+Загружаешь PDF статей → агент самостоятельно анализирует их, ищет самые свежие публикации в вебе, сравнивает подходы, выявляет противоречия и предлагает конкретные идеи для экспериментов.
+
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0.12+-orange)
+![CrewAI](https://img.shields.io/badge/CrewAI-0.51+-red)
+![LangGraph](https://img.shields.io/badge/LangGraph-supported-green)
+
+## ✨ Основные возможности
+- **Загрузка и индексация PDF** (статьи, книги, препринты)
+- **Agentic RAG** — агент сам решает, когда и откуда брать информацию
+- **Web Research Tool** — автоматический поиск по arXiv, Google Scholar, Semantic Scholar
+- **Multi-agent команда**:
+  - **Researcher** — собирает данные из PDF и веба
+  - **Summarizer** — создаёт структурированные обзоры
+  - **Critic** — проверяет на противоречия и актуальность
+  - **Experiment Proposer** — генерирует гипотезы экспериментов
+- Генерация mind-map и таблиц сравнения
+- Полная трассировка источников (цитаты с указанием страниц)
+- Поддержка русского и английского языков
+
 ## Architecture Agentic RAG Research Assistant
 ```mermaid
 graph TD
