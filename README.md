@@ -3,11 +3,6 @@
 
 Загружаешь PDF статей → агент самостоятельно анализирует их, ищет самые свежие публикации в вебе, сравнивает подходы, выявляет противоречия и предлагает конкретные идеи для экспериментов.
 
-![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0.12+-orange)
-![CrewAI](https://img.shields.io/badge/CrewAI-0.51+-red)
-![LangGraph](https://img.shields.io/badge/LangGraph-supported-green)
-
 ## Основные возможности
 - **Загрузка и индексация PDF** (статьи, книги, препринты)
 - **Agentic RAG** — агент сам решает, когда и откуда брать информацию
