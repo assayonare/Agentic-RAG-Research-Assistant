@@ -8,7 +8,7 @@
 ![CrewAI](https://img.shields.io/badge/CrewAI-0.51+-red)
 ![LangGraph](https://img.shields.io/badge/LangGraph-supported-green)
 
-## ✨ Основные возможности
+## Основные возможности
 - **Загрузка и индексация PDF** (статьи, книги, препринты)
 - **Agentic RAG** — агент сам решает, когда и откуда брать информацию
 - **Web Research Tool** — автоматический поиск по arXiv, Google Scholar, Semantic Scholar
