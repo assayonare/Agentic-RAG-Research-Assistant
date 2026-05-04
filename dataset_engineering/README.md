@@ -53,7 +53,7 @@ dataset-generator/
 
 Вывод:
 
-![Вывод](data/images/output.png)
+![Вывод](data/images/image.png)
 
 Пример структуры evaluation_dataset_v1:
 {"id": "1522d4ae-7d4b-435b-a439-ebecbb602715", "category": "simple", "category_number": 2, "global_number": null, "question": "Перечислите всех авторов исследования, указанных в документе.", "domain": "AI/ML", "language": "en"}
