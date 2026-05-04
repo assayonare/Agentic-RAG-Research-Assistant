@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> d3a1605 (init commit)
 # Agentic-RAG-Research-Assistant
 **Автономный исследовательский AI-агент для научных статей**
 
@@ -48,4 +52,8 @@ graph TD
     style A fill:#e6f3ff,stroke:#0066cc
     style M fill:#ccffcc,stroke:#006600
     style B fill:#fff3e6,stroke:#cc6600
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> d3a1605 (init commit)
