@@ -53,9 +53,10 @@ dataset-generator/
 ```
 Вывод:
 
-![Вывод](dataset_engineering/data/images/image.png)
+![Вывод](data/images/image.png)
 
 Пример структуры evaluation_dataset_v1:
+```json
 {"id": "1522d4ae-7d4b-435b-a439-ebecbb602715", "category": "simple", "category_number": 2, "global_number": null, "question": "Перечислите всех авторов исследования, указанных в документе.", "domain": "AI/ML", "language": "en"}
 {"id": "57b9d20b-df64-4ad8-80af-7b086ce02a79", "category": "simple", "category_number": 4, "global_number": null, "question": "Какая лицензия применяется к данному документу?", "domain": "AI/ML", "language": "en"}
 {"id": "7992dca8-a793-4fad-bd2f-e0316e2a8591", "category": "simple", "category_number": 6, "global_number": null, "question": "К какой предметной области, согласно классификации arXiv, относится данная работа?", "domain": "AI/ML", "language": "en"}
@@ -65,3 +66,4 @@ dataset-generator/
 {"id": "8899be8c-3d60-47ad-9cd0-318bfbbfc760", "category": "simple", "category_number": 29, "global_number": null, "question": "Какой тип данных является входным условием для генерации 3D-мира в методе Map2World?", "domain": "AI/ML", "language": "en"}
 {"id": "c5a9a916-81ba-4b7e-8b8d-5c96b64be6e8", "category": "simple", "category_number": 30, "global_number": null, "question": "Каков полный заголовок исследовательской работы, представленной в данном документе?", "domain": "AI/ML", "language": "en"}
 {"id": "149540d8-a25a-4507-8fd1-52390d0df762", "category": "simple", "category_number": 33, "global_number": null, "question": "Какой постоянный идентификатор DOI присвоен данному документу?", "domain": "AI/ML", "language": "en"}
+```
