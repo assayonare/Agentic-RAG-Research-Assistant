@@ -50,7 +50,7 @@ dataset-generator/
 ├── generated/
 │   └── evaluation_dataset_v1.jsonl
 └── README.md
-
+```
 Вывод:
 
 ![Вывод](dataset_engineering/data/images/image.png)
